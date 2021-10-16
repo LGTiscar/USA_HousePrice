@@ -10,7 +10,7 @@ Link to the Dataset: https://www.kaggle.com/gpandi007/usa-housing-dataset
 ---
 ## Processing Steps
 
-The complete data processing project is located within the *House_price_classif.ipynb* file in this repository, but here it is a summary of the steps I made:
+The complete data processing project is located within the *House_price_classif.ipynb* file in this repository, but here it is a summary of the steps I followed:
 
 1.  **Descriptive analysis of data:**
 
